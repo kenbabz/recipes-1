@@ -4,5 +4,5 @@ In here we have my grandma recipes
 
 - guacamole
 - ketchup
-- pasta
+- creamy pasta
 
